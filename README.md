@@ -1,3 +1,3 @@
 # Heb12MobileAi2
-A version of Heb12 Mobile to run on old Android devices that don't support the newer Html5 features.
+An alternative version of Heb12 Mobile for old devices. Abandoned because the actual Heb12 Mobile supports older devices now.
 Made in App Inventor 2
